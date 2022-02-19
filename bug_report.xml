@@ -1,1 +1,23 @@
+<Bug_report>
+<Bug_Name>Application "NAME" crashes upon clicking the "PAY NOW" button on the last step of product purchase</Bug_Name>
+<Bug_ID>It will be automatically created by the BUG Tracking tool once the bug will be saved</Bug_ID>
+<Tested_on>Android 10.0</Tested_on>
+<Device>Samsung Galaxy S10</Device>
+<Severity>Major</Severity>
+<Priority>HIGH</Priority>
+<Assigned_to>DeveloperX</Assigned_to>
+<Reported_by>Name</Reported_by> 
+<Reported_On>18FEB22</Reported_On>
 
+<Description>Unable to finish the process of product purchase as apllication "NAME" crashes upon clicking the "PAY NOW" button: the sceen turns white and the apllication does not respond to user actions</Description>
+<Steps_to_Reproduce>
+<First_step>1)Open the Application</First_step>
+<Second_step>2)Search for the required product</Second_step>
+<Third_step>3)Add the product to the cart upon clicking  "ADD" button</Third_step>
+<Fourth_step>4)Fill out all reqired fields for product delivery</Fourth_step>
+<Fifth_step>5)Press the "Purchase now" button and select the option "Pay by credit card"</Fifth_step>
+<Six_step>6)Enter the credit card data</Six_step>
+<Seven_step>7)Press the button "PAY NOW"</Seven_step>
+</Steps_to_Reproduce>
+<Expected_Result>On clicking the "PAY NOW" button  the money should be charged from user's credit card while the application displays the information about successfully created order</Expected_Result>
+</Bug_report>
