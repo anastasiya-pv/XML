@@ -1,0 +1,18 @@
+<Hard_skills>
+<First_line>The basic theory of Software Testing</First_line>
+<Second_line>Linux command line (terminal)/Git bash.Github</Second_line>
+<Third_line>HTTP methods, requests,responses</Third_line>
+<Fouth_line>JSON and XML</Fouth_line>
+<Fifth_line>API testing via POSTMAN(GET,POST,PUT,DELETE,creating variables,writing simple autotests,checking response)</Fifth_line>
+<Sixth_line>Creating test cases,checklists,bug reports</Sixth_line>
+<Seventh_line>Test Design Technics</Seventh_line>
+<Eighth_line>Browser developer tools</Eighth_line>
+<Ninth_line>Mobile testing basics</Ninth_line>
+<Tenth_line>Android studio and ADB(android device manager)</Tenth_line>
+<Eleventh_line>Charles</Eleventh_line>
+<Twelfth_line>Fiddler</Twelfth_line>
+<Thirteenth_line>SQL basics(create,delete,drop,insert into,select,from,where,join)</Thirteenth_line>
+<Fourteenth_line>PostgreSQL database</Fourteenth_line>
+<Fifteenth_line>Scrum</Fifteenth_line>
+<Sixteenth_line>The basics of Python</Sixteenth_line>
+</Hard_skills>
