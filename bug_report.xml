@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bug_report>
-<Bug_Name>Application "NAME" breaks down after clicking the "PAY NOW" button on the last step of product purchase</Bug_Name>
-<Bug_ID>It will be automatically generated after bug report saving</Bug_ID>
-<Tested_on>Android 10.0</Tested_on>
-<Device>Samsung Galaxy S10</Device>
-<Environment>PROD</Environment> 
-<Severity>Critical</Severity>
-<Priority>High</Priority>
-<Assigned_to>DeveloperX</Assigned_to>
-<Reported_by>Name</Reported_by> 
-<Reported_On>18FEB22</Reported_On>
+<Bug_Name>Bug name: Application "NAME" crashes upon clicking the "PAY NOW" button on the last step of product purchase</Bug_Name>
+<Bug_ID> Bug ID: It will be automatically generated after bug report saving</Bug_ID>
+<Tested_on> Tested on: Android 10.0</Tested_on>
+<Device> Device: Samsung Galaxy S10</Device>
+<Environment>Environment: PROD</Environment>
+<Severity>Severity:Critical</Severity>
+<Priority>Priority:High</Priority>
+<Assigned_to>Assigned to: DeveloperX</Assigned_to>
+<Reported_by>Reported by: Name</Reported_by>
+<Reported_On>Reported on: 18FEB22</Reported_On>
 
-<Description>Unable to finish the process of product purchase as apllication "NAME" breaks down upon clicking the "PAY NOW" button: the sceen turns white and the apllication does not respond to user actions</Description>
+<Description>Description:Unable to finish the process of product purchase as apllication "NAME" crashes upon clicking the "PAY NOW" button: the sceen turns white and the apllication does not respond to user actions</Description>
+
 <Steps_to_Reproduce>
-<First_step>1)Open the Application</First_step>
+<First_step>Steps to Reproduce: 1)Open the Application</First_step>
 <Second_step>2)Search for the required product</Second_step>
 <Third_step>3)Add the product to the cart by clicking "ADD" button</Third_step>
 <Fourth_step>4)Fill out all reqired fields for product delivery</Fourth_step>
@@ -21,6 +22,9 @@
 <Six_step>6)Enter the credit card data</Six_step>
 <Seven_step>7)Press the button "PAY NOW"</Seven_step>
 </Steps_to_Reproduce>
-<Expected_Result>On clicking the "PAY NOW" button  the money should be charged from user's credit card while the application displays the information about successfully created order</Expected_Result>
+
+<Expected_Result>Upon clicking the "PAY NOW" button the money should be charged from user's credit card while the application displays the information about successfully created order</Expected_Result>
+
 <Actual_Result>Upon clicking the "PAY NOW" button the screen turns white and the application does not respond to user actions</Actual_Result>
+
 </Bug_report>
